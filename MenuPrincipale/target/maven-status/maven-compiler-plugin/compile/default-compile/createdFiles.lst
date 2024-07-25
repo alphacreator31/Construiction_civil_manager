@@ -1,0 +1,16 @@
+com\mycompany\menuprincipale\Equipe.class
+com\mycompany\menuprincipale\Membre.class
+com\mycompany\menuprincipale\Ressource.class
+com\mycompany\menuprincipale\ListeProjet.class
+com\mycompany\menuprincipale\MenuPrincipal.class
+com\mycompany\menuprincipale\Budget.class
+com\mycompany\menuprincipale\Marche.class
+com\mycompany\menuprincipale\Depense.class
+com\mycompany\menuprincipale\Etape.class
+com\mycompany\menuprincipale\GestionEquipe.class
+com\mycompany\menuprincipale\Projet.class
+com\mycompany\menuprincipale\Marchandise.class
+com\mycompany\menuprincipale\GestionBudget.class
+com\mycompany\menuprincipale\Materiau.class
+com\mycompany\menuprincipale\Inventaire.class
+com\mycompany\menuprincipale\GestionProjet.class
